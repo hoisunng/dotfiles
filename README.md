@@ -1,2 +1,4 @@
 # dotfiles
-Linux dot files
+Linux dot files for the following applications:
+* nvim
+* tmux
